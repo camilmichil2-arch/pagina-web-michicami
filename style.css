@@ -1,0 +1,46 @@
+.titulo{
+  color:#125454;
+ background-color:#061524;
+   text-align: center;
+}
+.imagen {
+  width:300px
+}
+.titulo-2{
+  color:#125454;
+ background-color:#27F5E7;
+   text-align: center;
+}
+.titulo-3{
+  color:#22BFBA;
+ background-color:#1B6943;
+   text-align: center;
+}
+  .imagen2 {
+  width:200px
+  }
+.titulo-4{
+  color:#12001F;
+ background-color:#9E82B8;
+   text-align: center;
+}
+.titulo-especial{
+   color:#12001F;
+ background-color:#9E82B8;
+   text-align: center;
+  transform: rotate(180deg);
+  writing-mode: vertical-lr;
+  
+}
+ .imagen6 {
+  width:300px
+  }
+ .imagen6:hover {
+  width:400px
+  }
+ .imagen7 {
+  width:200px
+  }
+ .imagen7:hover {
+  width:300px
+ }
